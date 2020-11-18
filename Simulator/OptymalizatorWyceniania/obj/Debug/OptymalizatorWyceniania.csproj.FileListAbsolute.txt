@@ -1,0 +1,14 @@
+D:\mateusz\Inzynier\OptymalizatorWyceniania\OptymalizatorWyceniania\obj\Debug\MainWindow.g.cs
+D:\mateusz\Inzynier\OptymalizatorWyceniania\OptymalizatorWyceniania\obj\Debug\App.g.cs
+D:\mateusz\Inzynier\OptymalizatorWyceniania\OptymalizatorWyceniania\obj\Debug\OptymalizatorWyceniania_MarkupCompile.cache
+D:\mateusz\Inzynier\OptymalizatorWyceniania\OptymalizatorWyceniania\obj\Debug\OptymalizatorWyceniania_MarkupCompile.lref
+D:\mateusz\Inzynier\OptymalizatorWyceniania\OptymalizatorWyceniania\bin\Debug\OptymalizatorWyceniania.exe.config
+D:\mateusz\Inzynier\OptymalizatorWyceniania\OptymalizatorWyceniania\bin\Debug\OptymalizatorWyceniania.exe
+D:\mateusz\Inzynier\OptymalizatorWyceniania\OptymalizatorWyceniania\bin\Debug\OptymalizatorWyceniania.pdb
+D:\mateusz\Inzynier\OptymalizatorWyceniania\OptymalizatorWyceniania\obj\Debug\MainWindow.baml
+D:\mateusz\Inzynier\OptymalizatorWyceniania\OptymalizatorWyceniania\obj\Debug\OptymalizatorWyceniania.g.resources
+D:\mateusz\Inzynier\OptymalizatorWyceniania\OptymalizatorWyceniania\obj\Debug\OptymalizatorWyceniania.Properties.Resources.resources
+D:\mateusz\Inzynier\OptymalizatorWyceniania\OptymalizatorWyceniania\obj\Debug\OptymalizatorWyceniania.csproj.GenerateResource.cache
+D:\mateusz\Inzynier\OptymalizatorWyceniania\OptymalizatorWyceniania\obj\Debug\OptymalizatorWyceniania.csproj.CoreCompileInputs.cache
+D:\mateusz\Inzynier\OptymalizatorWyceniania\OptymalizatorWyceniania\obj\Debug\OptymalizatorWyceniania.exe
+D:\mateusz\Inzynier\OptymalizatorWyceniania\OptymalizatorWyceniania\obj\Debug\OptymalizatorWyceniania.pdb
